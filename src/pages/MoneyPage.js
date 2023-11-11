@@ -42,7 +42,10 @@ export default function MoneyPage() {
                   <SportsHandballTwoToneIcon /> 体の歪みや痛みを和らげる
                 </Typography>
                 <Typography sx={{ mb: 1.5 }} color="text.secondary">
-                  施術料 7,000円
+                  施術料 6,000円（65歳以上）/ 7,000円 (65歳未満) <br />
+                  <Typography variant="caption" sx={{ mb: 1.5 }} color="text.secondary">
+                    ※ 症状に合わせた施術を行います
+                  </Typography> 
                 </Typography>
               </CardContent>
             </Card>

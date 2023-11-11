@@ -87,7 +87,7 @@ export default function Nav({ openNav, onCloseNav }) {
             </Typography>
 
             <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-              Only from ¥3,000
+              Starting from ¥3,000
             </Typography>
           </Box>
 

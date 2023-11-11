@@ -52,39 +52,33 @@ export default function ContactPage() {
                   <TableCell align="right">
                     <CheckCircleOutlineTwoToneIcon />
                   </TableCell>
+                  <TableCell align="right"><CheckCircleOutlineTwoToneIcon /> </TableCell>
+                  <TableCell align="right">
+                    <CheckCircleOutlineTwoToneIcon />
+                  </TableCell>
+                  <TableCell align="right">
+                    <CheckCircleOutlineTwoToneIcon />
+                  </TableCell>
+                  <TableCell align="right">
+                    <CheckCircleOutlineTwoToneIcon />
+                  </TableCell>
+                  <TableCell align="right"> <CheckCircleOutlineTwoToneIcon /></TableCell>
                   <TableCell align="right"> </TableCell>
-                  <TableCell align="right">
-                    <CheckCircleOutlineTwoToneIcon />
-                  </TableCell>
-                  <TableCell align="right">
-                    <CheckCircleOutlineTwoToneIcon />
-                  </TableCell>
-                  <TableCell align="right">
-                    <CheckCircleOutlineTwoToneIcon />
-                  </TableCell>
-                  <TableCell align="right"> </TableCell>
-                  <TableCell align="right">
-                    <CheckCircleOutlineTwoToneIcon />
-                  </TableCell>
                   <TableCell align="right">
                     <CheckCircleOutlineTwoToneIcon />
                   </TableCell>
                 </TableRow>
                 <TableRow key="test" sx={{ '&:last-child td, &:last-child th': { border: 0 } }}>
                   <TableCell component="th" scope="row">
-                    9:00 ~ 21:00
-                  </TableCell>
-                  <TableCell align="right"> </TableCell>
-                  <TableCell align="right">
-                    <CheckCircleOutlineTwoToneIcon />
+                    9:00 ~ 13:00
                   </TableCell>
                   <TableCell align="right"> </TableCell>
                   <TableCell align="right"> </TableCell>
                   <TableCell align="right"> </TableCell>
-                  <TableCell align="right">
-                    <CheckCircleOutlineTwoToneIcon />
-                  </TableCell>
                   <TableCell align="right"> </TableCell>
+                  <TableCell align="right"> </TableCell>
+                  <TableCell align="right"> </TableCell>
+                  <TableCell align="right"><CheckCircleOutlineTwoToneIcon /></TableCell>
                   <TableCell align="right"> </TableCell>
                 </TableRow>
               </TableBody>
